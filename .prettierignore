@@ -1,0 +1,7 @@
+node_modules
+.next
+yarn.lock
+# assetなどが入る
+public
+src/generated/*.ts
+src/generated/*.graphql
